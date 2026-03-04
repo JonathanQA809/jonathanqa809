@@ -3,6 +3,10 @@
 
 - <b>Urban Routes Taxi Web App Automation Test</b>
   - [Praciting Automation Testing in Python](https://github.com/JonathanQA809/urban-routes-web-app-test)
+ 
+<h2> 👨‍🎓 Certifications</h2>
+
+  - [Quality Assurance Engineering Program](https://i.imgur.com/W0aRtEf.png)
 
 <h2> 🤳 Connect with me:</h2>
 
