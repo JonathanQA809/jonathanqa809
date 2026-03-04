@@ -6,7 +6,7 @@
  
 <h2> 👨‍🎓 Certifications</h2>
 
-  - [Quality Assurance Engineering Program](https://www.linkedin.com/in/jonathan-qa/overlay/Certifications/1584674788/treasury/?profileId=ACoAAEgGJQgBbLhfgBsIY60SGC2sLk__nOfEWbI)
+  - [Quality Assurance Engineering Program](https://media.licdn.com/dms/image/v2/D4E2DAQEY1EQlENFnow/profile-treasury-document-images_1280/B4EZveZl9rJkAU-/1/1768962811195?e=1773273600&v=beta&t=ajI9gdy76xU4mLsgdUrTJExry_oxoN0t4RBtqytSpuc)
 
 <h2> 🤳 Connect with me:</h2>
 
