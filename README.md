@@ -2,7 +2,7 @@
 <h2>👨‍💻 QA Development Projects:</h2>
 
 - <b>Urban Routes Taxi Web App Automation Test</b>
-  - [Praciting Automation Testing in Python](https://github.com/JonathanQA809/urban-routes-web-app-test)
+  - [Automation Testing in Selenium/Python](https://github.com/JonathanQA809/urban-routes-web-app-test)
  
 <h2> 👨‍🎓 Certifications</h2>
 
