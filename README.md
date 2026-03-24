@@ -9,7 +9,9 @@
  
 <h2> 👨‍🎓 Certifications</h2>
 
-  - [Quality Assurance Engineering Program](https://media.licdn.com/dms/image/v2/D4E2DAQEY1EQlENFnow/profile-treasury-document-images_1280/B4EZveZl9rJkAU-/1/1768962811195?e=1773273600&v=beta&t=ajI9gdy76xU4mLsgdUrTJExry_oxoN0t4RBtqytSpuc)
+  - [Quality Assurance Engineering Program](https://photos.app.goo.gl/bJXCf6cNxrscYH6v7)
+
+  - [Introduction to Python](https://www.sololearn.com/certificates/CC-G9TDCRCK)
 
 <h2> 🤳 Connect with me:</h2>
 
