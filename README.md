@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jonathan! <a href="https://www.linkedin.com/in/jonathan-qa/">QA Engineer Professional</a>
 <h2>👨‍💻 QA Development Projects:</h2>
 
-- <b>Urban Routes Taxi Web App Automation Test</b>
-  - [Automation Testing with Selenium/Python](https://github.com/JonathanQA809/urban-routes-web-app-test)
+- <b>Urban Routes Taxi Web App Automation Project</b>
+  - [Built automated tests using Selenium (Python) to validate core user flows](https://github.com/JonathanQA809/urban-routes-web-app-test)
  
 - <b>Urban Routes Web App Manual Testing Project</b>
   - [Executed test cases, identified defects, and documented bug reports based on expected vs actual results](https://github.com/JonathanQA809/urban-routes-qa-testing)
