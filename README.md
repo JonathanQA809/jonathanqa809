@@ -7,6 +7,9 @@
 - <b>Urban Routes Web App Manual Testing Project</b>
   - [Executed test cases, identified defects, and documented bug reports based on expected vs actual results](https://github.com/JonathanQA809/urban-routes-qa-testing)
  
+- <b>Urban Routes Test Design Project</b>
+  - [Designed test cases using Equivalence Partitioning and Boundary Value Analysis based on functional requirements](https://github.com/JonathanQA809/urban-routes-test-design)
+ 
 <h2> 👨‍🎓 Certifications</h2>
 
   - [Quality Assurance Engineering Program](https://photos.app.goo.gl/bJXCf6cNxrscYH6v7)
