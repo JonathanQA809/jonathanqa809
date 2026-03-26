@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jonathan! <a href="https://www.linkedin.com/in/jonathan-qa/">QA Engineer Professional</a>
+<h1>Hi, I'm Jonathan! <a href="https://www.linkedin.com/in/jonathan-qa/">QA Engineer | Selenium • Python • API Testing</a>
 <h2>👨‍💻 QA Development Projects:</h2>
 
 - <b>Urban Routes Taxi Web App Automation Project</b>
