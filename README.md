@@ -23,6 +23,8 @@
 
   - [Python Intermediate](https://www.sololearn.com/certificates/CC-VDMFTL1M)
 
+  - [Ai for Software Testers](https://www.linkedin.com/learning/certificates/15ab6ff067087736739ad699c8571b134874fa97c0ce792a6f67895d98494ac2?trk=share_certificate)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
