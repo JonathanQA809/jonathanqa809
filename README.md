@@ -13,7 +13,7 @@
 <h2> 🐍 Python Projects</h2>
 
 - <b>Band Name Generator<b/>
-  - [beginner-friendly Python project that generates a fun band name based on user input.](https://github.com/JonathanQA809/band-name-generator)
+  - [Beginner-friendly Python project that generates a fun band name based on user input.](https://github.com/JonathanQA809/band-name-generator)
  
 <h2> 👨‍🎓 Certifications</h2>
 
