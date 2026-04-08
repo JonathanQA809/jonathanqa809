@@ -10,6 +10,11 @@
 - <b>Urban Routes Test Design Project</b>
   - [Designed test cases using Equivalence Partitioning and Boundary Value Analysis based on functional requirements](https://github.com/JonathanQA809/urban-routes-test-design)
  
+<h2> 🐍 Python Projects</h2>
+
+- <b>Band Name Generator<b/>
+  - [beginner-friendly Python project that generates a fun band name based on user input.](https://github.com/JonathanQA809/band-name-generator)
+ 
 <h2> 👨‍🎓 Certifications</h2>
 
   - [Quality Assurance Engineering Program](https://photos.app.goo.gl/bJXCf6cNxrscYH6v7)
