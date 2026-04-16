@@ -14,6 +14,9 @@
 
 - <b>Band Name Generator<b/>
   - [Beginner-friendly Python project that generates a fun band name based on user input.](https://github.com/JonathanQA809/band-name-generator)
+
+- <b>Tip Calculator<b/>
+  - [A Python CLI tool that computes tip amounts and total bill per person.](https://github.com/JonathanQA809/tip-calculator)
  
 <h2> 👨‍🎓 Certifications</h2>
 
