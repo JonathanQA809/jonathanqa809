@@ -20,7 +20,7 @@
  
 <h2> 👨‍🎓 Certifications</h2>
 
-  - [Quality Assurance Engineering Program](https://photos.app.goo.gl/bJXCf6cNxrscYH6v7)
+  - [Quality Assurance Engineering Program](https://www.slideshare.net/slideshow/quality-assurance-engineer-program-certificate-december-2025/287135976)
 
   - [Introduction to Python](https://www.sololearn.com/certificates/CC-G9TDCRCK)
 
