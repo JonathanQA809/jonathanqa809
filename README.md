@@ -7,6 +7,9 @@
 - <b>Dockerized WordPress + MySQL QA Testing Project</b>
   - [Tested Dockerized WordPress + MySQL environment, validating container behavior, database connectivity, and configuration issues](https://github.com/JonathanQA809/docker-wordpress-mysql-qa)
  
+- <b>Jenkins Docker QA Pipeline</b>
+  - [Jenkins CI pipeline with Docker on DigitalOcean running Python pytest tests](https://github.com/JonathanQA809/jenkins-docker-qa-pipeline)
+ 
 - <b>Urban Routes Web App Manual Testing</b>
   - [Executed test cases, identified defects, and documented bug reports based on expected vs actual results](https://github.com/JonathanQA809/urban-routes-qa-testing)
  
