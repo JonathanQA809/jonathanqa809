@@ -1,14 +1,14 @@
-<h1>Hi, I'm Jonathan! <a href="https://www.linkedin.com/in/jonathan-qa/">QA Engineer | Selenium • Python • API Testing</a>
+<h1>Hi, I'm Jonathan! <a href="https://www.linkedin.com/in/jonathan-qa/">QA Engineer | Selenium • Python • API Testing • CI/CD (Jenkins, Docker)</a>
 <h2>👨‍💻 QA Development Projects:</h2>
+
+- <b>Jenkins Docker QA Pipeline</b>
+  - [Built and deployed a Jenkins CI pipeline on a DigitalOcean server using Docker, integrating GitHub to automatically install dependencies and run Python pytest tests with real-time results.](https://github.com/JonathanQA809/jenkins-docker-qa-pipeline)
 
 - <b>Urban Routes Taxi Web App Automation</b>
   - [Built automated tests using Selenium (Python) to validate core user flows](https://github.com/JonathanQA809/urban-routes-web-app-test)
  
 - <b>Dockerized WordPress + MySQL QA Testing Project</b>
   - [Tested Dockerized WordPress + MySQL environment, validating container behavior, database connectivity, and configuration issues](https://github.com/JonathanQA809/docker-wordpress-mysql-qa)
- 
-- <b>Jenkins Docker QA Pipeline</b>
-  - [Jenkins CI pipeline with Docker on DigitalOcean running Python pytest tests](https://github.com/JonathanQA809/jenkins-docker-qa-pipeline)
  
 - <b>Urban Routes Web App Manual Testing</b>
   - [Executed test cases, identified defects, and documented bug reports based on expected vs actual results](https://github.com/JonathanQA809/urban-routes-qa-testing)
