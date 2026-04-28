@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jonathan! <a href="https://www.linkedin.com/in/jonathan-qa/">QA Engineer | Selenium • Python • API Testing • CI/CD (Jenkins, Docker)</a>
+<h1>Hi, I'm Jonathan! QA Engineer | Selenium • Python • API Testing • CI/CD (Jenkins, Docker)</a>
 <h2>👨‍💻 QA Development Projects:</h2>
 
 - <b>Jenkins Docker QA Pipeline</b>
@@ -40,7 +40,6 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/jonathan-qa/
-[instagram]: https://www.instagram.com/jonathanenrique809/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
