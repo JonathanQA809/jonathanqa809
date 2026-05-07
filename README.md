@@ -13,7 +13,7 @@
 - <b>Urban Routes Web App Manual Testing</b>
   - [Executed test cases, identified defects, and documented bug reports based on expected vs actual results](https://github.com/JonathanQA809/urban-routes-qa-testing)
  
-- <b>Urban Routes Test Design Project</b>
+- <b>Urban Routes Test Design</b>
   - [Designed test cases using Equivalence Partitioning and Boundary Value Analysis based on functional requirements](https://github.com/JonathanQA809/urban-routes-test-design)
  
 <h2> 🐍 Python Projects</h2>
