@@ -1,6 +1,9 @@
 <h1>Hi, I'm Jonathan! QA Engineer | Selenium • Python • API Testing • CI/CD (Jenkins, Docker)</a>
 <h2>👨‍💻 QA Development Projects:</h2>
 
+- <b>Urban Routes Test Design and Test Cases</b>
+  - [Designed test cases using Equivalence Partitioning and Boundary Value Analysis based on functional requirements](https://github.com/JonathanQA809/urban-routes-test-design)
+
 - <b>Jenkins Docker QA Pipeline</b>
   - [Built and deployed a Jenkins CI pipeline on a DigitalOcean server using Docker, integrating GitHub to automatically install dependencies and run Python pytest tests with real-time results.](https://github.com/JonathanQA809/jenkins-docker-qa-pipeline)
 
@@ -12,9 +15,6 @@
  
 - <b>Urban Routes Web App Manual Testing</b>
   - [Executed test cases, identified defects, and documented bug reports based on expected vs actual results](https://github.com/JonathanQA809/urban-routes-qa-testing)
- 
-- <b>Urban Routes Test Design</b>
-  - [Designed test cases using Equivalence Partitioning and Boundary Value Analysis based on functional requirements](https://github.com/JonathanQA809/urban-routes-test-design)
  
 <h2> 🐍 Python Projects</h2>
 
