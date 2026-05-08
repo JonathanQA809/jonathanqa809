@@ -3,6 +3,9 @@
 
 - <b>Urban Routes Web App Test Design and Test Cases</b>
   - [Designed test cases using Equivalence Partitioning and Boundary Value Analysis based on functional requirements](https://github.com/JonathanQA809/urban-routes-test-design)
+ 
+- <b>Urban Routes Web App Manual Testing and Bug Reports</b>
+  - [Executed test cases, identified defects, and documented bug reports based on expected vs actual results](https://github.com/JonathanQA809/urban-routes-qa-testing)
 
 - <b>Jenkins Docker QA Pipeline</b>
   - [Built and deployed a Jenkins CI pipeline on a DigitalOcean server using Docker, integrating GitHub to automatically install dependencies and run Python pytest tests with real-time results.](https://github.com/JonathanQA809/jenkins-docker-qa-pipeline)
@@ -12,9 +15,6 @@
  
 - <b>Dockerized WordPress + MySQL QA Testing Project</b>
   - [Tested Dockerized WordPress + MySQL environment, validating container behavior, database connectivity, and configuration issues](https://github.com/JonathanQA809/docker-wordpress-mysql-qa)
- 
-- <b>Urban Routes Web App Manual Testing</b>
-  - [Executed test cases, identified defects, and documented bug reports based on expected vs actual results](https://github.com/JonathanQA809/urban-routes-qa-testing)
  
 <h2> 🐍 Python Projects</h2>
 
