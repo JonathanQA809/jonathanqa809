@@ -6,12 +6,15 @@
  
 - <b>Urban Routes Web App Manual Testing and Bug Reports</b>
   - [Executed test cases, identified defects, and documented bug reports based on expected vs actual results](https://github.com/JonathanQA809/urban-routes-qa-testing)
+ 
+- <b>Aero Taxi Credit Card Manual Testing</b>
+  - [Manual QA testing project for Aero Taxi credit card and fare calculation features using equivalence classes, boundary values, test cases, and a test report](https://github.com/JonathanQA809/aero-taxi-credit-card-manual-testing)
+ 
+- <b>Urban Routes Taxi Web App Automation</b>
+  - [Built automated tests using Selenium (Python) to validate core user flows](https://github.com/JonathanQA809/urban-routes-web-app-test)
 
 - <b>Jenkins Docker QA Pipeline</b>
   - [Built and deployed a Jenkins CI pipeline on a DigitalOcean server using Docker, integrating GitHub to automatically install dependencies and run Python pytest tests with real-time results.](https://github.com/JonathanQA809/jenkins-docker-qa-pipeline)
-
-- <b>Urban Routes Taxi Web App Automation</b>
-  - [Built automated tests using Selenium (Python) to validate core user flows](https://github.com/JonathanQA809/urban-routes-web-app-test)
  
 - <b>Dockerized WordPress + MySQL QA Testing Project</b>
   - [Tested Dockerized WordPress + MySQL environment, validating container behavior, database connectivity, and configuration issues](https://github.com/JonathanQA809/docker-wordpress-mysql-qa)
