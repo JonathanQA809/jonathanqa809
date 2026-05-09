@@ -29,7 +29,7 @@
  
 <h2> 👨‍🎓 Certifications</h2>
 
-  - [Quality Assurance Engineering Program](https://www.slideshare.net/slideshow/quality-assurance-engineer-program-certificate-december-2025/287135976)
+  - [Quality Assurance Engineering Program](https://drive.google.com/file/d/1fI8G9uJlTikvK_VnBjrQ_vlpYbLy48Na/view?usp=sharing)
 
   - [Introduction to Python](https://www.sololearn.com/certificates/CC-G9TDCRCK)
 
