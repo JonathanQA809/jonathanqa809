@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jonathan! Software QA Engineer | Selenium • Python • API Testing • CI/CD (Jenkins, Docker)</a>
+<h1>Hi, I'm Jonathan! Software QA Engineer | Playwright • Selenium • Python • API Testing • CI/CD (Jenkins, Docker)</a>
 <h2>👨‍💻 QA Development Projects:</h2>
 
 - <b>Awesome Pizza — Playwright E2E Tests</b>
