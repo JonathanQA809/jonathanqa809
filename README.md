@@ -1,6 +1,9 @@
 <h1>Hi, I'm Jonathan! Software QA Engineer | Selenium • Python • API Testing • CI/CD (Jenkins, Docker)</a>
 <h2>👨‍💻 QA Development Projects:</h2>
 
+- <b>Awesome Pizza — Playwright E2E Tests</b>
+  - [End-to-end test suite for Awesome Pizza, a single-page pizza ordering app, built with Playwright and TypeScript.](https://github.com/JonathanQA809/awesome-pizza-github-copilot-and-playwright)
+
 - <b>Urban Routes Web App Test Design and Test Cases</b>
   - [Designed test cases using Equivalence Partitioning and Boundary Value Analysis based on functional requirements](https://github.com/JonathanQA809/urban-routes-test-design)
  
