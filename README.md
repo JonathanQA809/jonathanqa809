@@ -3,6 +3,9 @@
 
 - <b>Awesome Pizza — Playwright E2E Tests</b>
   - [End-to-end test suite for Awesome Pizza, a single-page pizza ordering app, built with Playwright and TypeScript.](https://github.com/JonathanQA809/awesome-pizza-github-copilot-and-playwright)
+ 
+- <b>Awesome Pizza App Test - With Playwright, Bruno, and Claude</b>
+  - [End-to-end test suite for a pizza-ordering app — Playwright + TypeScript, covering UI, API, accessibility, and cross-browser scenarios, with a Bruno/OpenAPI collection for manual API exploration.](https://github.com/JonathanQA809/awesome-pizza-tests-with-playwright-claude-bruno)
 
 - <b>Urban Routes Web App Test Design and Test Cases</b>
   - [Designed test cases using Equivalence Partitioning and Boundary Value Analysis based on functional requirements](https://github.com/JonathanQA809/urban-routes-test-design)
