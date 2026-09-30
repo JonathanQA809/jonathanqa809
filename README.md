@@ -38,7 +38,9 @@
  
 <h2> 👨‍🎓 Certifications</h2>
 
-  - [Quality Assurance Engineering Program](https://drive.google.com/file/d/1fI8G9uJlTikvK_VnBjrQ_vlpYbLy48Na/view?usp=sharing)
+  - [Quality Assurance Engineering Program | TripleTen](https://drive.google.com/file/d/1fI8G9uJlTikvK_VnBjrQ_vlpYbLy48Na/view?usp=sharing)
+
+  - [Quality Assurance (QA) & Selenium Training | ACE IT Careers](https://drive.google.com/file/d/1-AUg6uVdEJO6fz0wKBFwKZKp-PjCR7Ly/view?usp=sharing)
 
   - [Introduction to Python](https://www.sololearn.com/certificates/CC-G9TDCRCK)
 
